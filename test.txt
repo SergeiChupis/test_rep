@@ -4,3 +4,5 @@ add new line
 
 add line in feature
 add changes in master
+
+conflict id solved
